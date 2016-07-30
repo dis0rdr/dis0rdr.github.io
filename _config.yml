@@ -13,7 +13,7 @@ name                     : "dis0rdr"
 description              : "Tech & Programming Stuff"
 url                      : "https://dis0rdr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  : "https://dis0rdr.github.com"
+gh_repo                  : "https://github.com/dis0rdr"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -67,7 +67,7 @@ google_ad_slot           :
 author:
   name             : "dis0rdr"
   avatar           : "avatar.png"
-  bio              : "Software Developer."
+  bio              : "Software Developer"
   location         : "Germany"
   email            :
   uri              :
